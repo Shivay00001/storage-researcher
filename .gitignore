@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+run_state/
+*.csv
+*.mrsc
