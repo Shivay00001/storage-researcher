@@ -6,7 +6,7 @@
   **Database compression system evolving per-column encoding recipes and a molecular (DNA) storage layer.**
 
   [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
-  [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+  [![License](https://img.shields.io/badge/License-Non--Commercial-blue.svg)](LICENSE)
   [![Release](https://img.shields.io/github/v/release/Shivay00001/storage-researcher)](https://github.com/Shivay00001/storage-researcher/releases)
 </div>
 
