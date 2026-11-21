@@ -18,6 +18,8 @@ Read the full writeup in [`paper.md`](paper.md) for related work, system design,
 
 ## 🚀 Key Results (Real, Tested Data)
 
+Built by [VisionQuantech](https://visionquantech.com) — AI agents, apps & tools for small businesses.
+
 - **18.07x Compression**: Tested on a 300,000-row (130 MB) synthetic database. Evolved optimal per-column encodings and verified byte-exact on every schema column.
 - **10.0x General-Purpose CLI Compression**: Zero hardcoded schemas. Automatically measures and applies the best encoding per column on an arbitrary held-out 50,000-row CSV.
 - **Biochemically-Valid DNA Encoding Layer**: Output is successfully re-encoded into a base sequence (homopolymer ≤3, GC ~50%) featuring erasure-coded redundancy. Demonstrated 100% fountain-decode success across repeated 10%-droplet-loss trials.
